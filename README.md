@@ -1,11 +1,25 @@
-# 🤖 FRIDAY - Discord Chatbot
+# 🤖 Friday - Discord Bot by afr4id
 
-**FRIDAY** is a smart Discord chatbot developed by [@afr4id_01](https://github.com/afr4id_01).  
-It can reply, help, and interact in your server.
+Friday is a lightweight and smart Discord bot made using **Node.js** and **Discord.js v14**.  
+It is designed to run on **Render.com Free Tier** using GitHub for deployment.
 
-## 🚀 Setup
+---
 
-### Run Locally:
-```bash
-pip install -r requirements.txt
-python bot.py
+## 🚀 Features
+
+- 🧠 Responds to "hi friday" with a friendly message
+- ☁️ Deployable on Render.com for free
+- 🔒 Uses environment variable to keep the bot token secure
+
+---
+
+## 🛠 Tech Stack
+
+- Node.js
+- discord.js
+- dotenv (for secure environment config)
+- Hosted on Render.com
+
+---
+
+## 📁 Project Structure
