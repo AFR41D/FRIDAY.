@@ -1,0 +1,13 @@
+{
+  "name": "friday-bot",
+  "version": "1.0.0",
+  "description": "A smart Discord bot called Friday",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
